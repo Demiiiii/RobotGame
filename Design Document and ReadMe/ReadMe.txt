@@ -1,0 +1,1 @@
+Made using fixed function pipeline OpenGL, Windows API provided by C++ and the code is compiled using Visual Studio 2015.
